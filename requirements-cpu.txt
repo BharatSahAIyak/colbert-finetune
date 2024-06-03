@@ -1,0 +1,8 @@
+torch
+scikit-learn
+pandas
+faiss-cpu
+datasets
+gdown
+ragatouille
+colbert-ai
