@@ -1,0 +1,974 @@
+q_id,question
+0,What is the purpose of the Android App mentioned?
+1,How does the Android App collect data?
+2,What type of devices can be used to collect data with the Android App?
+3,What are the benefits of using the Android App for data collection?
+4,Can the Android App be used without an internet connection?
+5,Is the Android App specifically designed for farmers?
+6,What types of data can be collected using the Android App?
+7,Can the Android App be customized to suit specific farm requirements?
+8,What is the purpose of the Android App mentioned in the text?
+9,How is the data collected using the Android App?
+10,What type of devices are used to collect the data?
+11,What operating system should the Smartphone have in order to use the Android App?
+12,What should be the minimum level at which the weather parameters should be available?
+13,What are the recommended weather parameters that should be covered?
+14,In what format should the weather parameters be provided?
+15,Could you explain what rainfall is?
+16,What are rainy days?
+17,What does temperature refer to?
+18,Why is it important to have weather data available for agriculture?
+19,What is the importance of weather parameters in farming?
+20,What are the key weather parameters that farmers should monitor?
+21,Which organizations are involved in agricultural activities?
+22,What are the functions of Agricultural Universities?
+23,What is the role of State Remote Sensing Centres in agriculture?
+24,What is the purpose of ICAR Centres located in the State?
+25,How does the local IMD office contribute to agriculture?
+26,What are some organizations involved in agriculture?
+27,What is the role of Agricultural Universities in agriculture?
+28,What services are provided by State Remote Sensing Centres in agriculture?
+29,What is the standard protocol for measuring the area of IUs for a particular crop in the Cluster?
+30,What is the recommended coverage area for the IUs in the Cluster?
+31,How much area of the IUs should be covered for a specific crop?
+32,What is the standard protocol followed for the particular crop in the Cluster?
+33,What is the significance of covering 20% area of the IUs?
+34,Why is it important to follow the standard protocol for a specific crop in the Cluster?
+35,What does the term 'IUs' refer to?
+36,What does it mean to cover a certain percentage of the IUs?
+37,Why is it important to cover a significant area of the IUs?
+38,What were the issues faced during the first two years of implementation of PMFBY?
+39,What does the figure in the text depict?
+40,"In case the reported yield estimates at the IU level are abnormally low or high, what can the Insurance Company do?"
+41,What should the Insurance Company do if they find any anomaly or deficiency in the received yield data from the State Govt.?
+42,What is the role of the State Level Technical Advisory Committee (STAC) in resolving yield dispute cases?
+43,What happens if anomalies in the data are not reported within 7 days?
+44,What are the reasons for the delay in claim settlement under PMFBY?
+45,What does the figure in the text indicate?
+46,In what situations can the Insurance Company make use of various products to confirm yield estimates?
+47,Who is the committee authorized to decide yield dispute cases?
+48,How many steps should be followed from a to d?
+49,How many steps should be followed from e to f?
+50,Which steps are compulsory?
+51,What is the total number of steps?
+52,Can any step be skipped?
+53,What should be followed if the given conditions are met?
+54,What is the recommended combination of steps?
+55,What happens if the recommended combination of steps is not followed?
+58,Are the steps in g and h optional?
+59,What is the total number of steps that need to be followed?
+60,What is the protocol of timelines for actual Yield data?
+61,Who chairs the Technical Advisory Committee (TAC) and which organizations are represented in it?
+62,What is the role of the Technical Advisory Committee (TAC)?
+63,What is the Technical Agency (TA) and what is its role?
+64,What is the State Level Technical Advisory Committee (STAC) and what is its purpose?
+65,What happens if there is unnecessary delay in finalizing the yield data?
+66,Who will chair the Technical Advisory Committee (TAC) for the execution of the Scheme?
+67,Which organizations will be represented in the Technical Advisory Committee (TAC)?
+68,What are some innovative technologies that can be used to address the issue of reliability of CCEs?
+69,"How can the use of satellite, weather, soil, and crop data along with images/video capture improve the quality and timeliness of yield data?"
+70,What role do national and international organizations play in studying the use of innovative technologies for yield estimation?
+71,What is the importance of conducting pilot studies for improved yield estimation using technology and good quality CCEs?
+72,Who needs to carry out an adequate number of pilot studies for improved yield estimation using technology and good quality CCEs?
+73,Under what conditions can states and insurance companies use technologies like satellite remote sensing and CCEs for estimating crop yields at the IU level?
+74,What innovative technologies can be used to address the issue of reliability of CCEs?
+75,"How can the use of satellite, weather, soil, and crop data improve the yield data quality and timeliness?"
+76,What data does the insurance company need to provide?
+77,What is expected from the insurance company in terms of data?
+78,What type of information does the insurance company need to provide?
+79,What are the data requirements from the insurance company?
+80,What is the responsibility of the insurance company regarding data?
+81,What information is requested from the insurance company?
+82,What is the role of the insurance company in providing data?
+83,What data is required from the insurance company?
+84,What data needs to be provided by the Insurance Company?
+85,What is the purpose of the data provided by the Insurance Company?
+86,Who may chair the STAC?
+87,Who are the members of the STAC?
+88,What happens if there is a disagreement between the concerned parties in the STAC?
+89,What does TAC stand for?
+90,What is the role of TAC/TA/STAC?
+91,What is the purpose of the SOP?
+92,Under what conditions is the SOP used?
+93,Who has the final decision-making authority in cases not falling within the criteria for using the SOP?
+94,Who can chair the STAC?
+96,"In case of disagreement between the concerned parties, where can the case be referred?"
+97,What do TAC/TA/STAC do?
+98,What statistical tests can be used to check for normality?
+99,What does the term 'CCEs' refer to?
+100,What is the purpose of checking the proper sampling design for CCEs?
+101,Why is it important to check the village level crop area?
+102,What are some measures of dispersion used in statistical analysis?
+103,What are some measures of skewness and kurtosis?
+104,What is a scatter plot used for?
+105,What is the purpose of scatter plots in farming?
+106,What is the Shapiro-Wilk test used for in farming?
+107,How is the Quartile-Quartile plot used in farming?
+108,What is the purpose of the Whiskers box plot in farming?
+109,What are some crop simulation models used for yield loss estimates?
+110,How can remote sensing be used for crop growth analysis?
+111,What is the importance of using well calibrated and validated models for crop growth analysis?
+112,At what resolution should models be run for crop growth analysis?
+113,What are some crop simulation models that can be used for yield loss estimates?
+114,What is a remote sensing based semi-physical modelling approach?
+115,What precautions should be taken when using crop simulation models for yield loss estimates?
+116,What is the purpose of crop simulation models?
+117,What is the requirement for considering the data mentioned in the text?
+118,Which agency needs to take prior approval from the State Government?
+119,Where should the agency seek approval from in order to use the data mentioned in the text?
+120,What is the significance of prior approval from the State Government?
+121,Under what circumstances can the data mentioned in the text be considered?
+122,What happens if an agency uses the data mentioned in the text without obtaining prior approval?
+123,Who is responsible for granting the prior approval to use the data mentioned in the text?
+124,What is paragraph 2.13 in relation to the data mentioned in the text?
+125,What is the significance of obtaining prior approval from the State Govt.?
+126,What does the phrase 'as outlined in para 2.13' refer to?
+127,What does it mean when the text mentions 'prior approval'?
+128,Why is it important to have 'prior approval' before proceeding?
+129,What is gridded or satellite based data?
+130,What is Dry-spell Occurrence?
+131,What is Temperature Anomaly?
+132,What is Soil Moisture Analysis?
+133,What are weather parameters related to crop condition?
+134,What is the Standardized Precipitation Index (SPI)?
+135,How can the Standardized Precipitation Index (SPI) be developed?
+136,When should appropriate resolution be used for gridded data?
+137,Where can high-resolution weather data be sourced from?
+138,What kind of data can be used for analyzing Dry-spell Occurrence?
+139,What is one of the rainfall based indexes that can be studied?
+140,What is the recommended use of MODIS data for long-term satellite data needs?
+141,How can crop maps be generated?
+142,What should be used if crop maps are not available?
+143,What is the recommended data period for assessing NDVI or NDWI deviation percentage?
+144,What type of satellite data is recommended for long-term analysis?
+145,Can MODIS data be used for village level information?
+146,What should be overlaid on the data for deriving crop specific vegetation indices?
+147,Under which project are crop maps prepared for few major crops?
+148,What can be used to check whether there was any reason for yield deviation as presented in the CCE data?
+149,What is a yield proxy map and how can it be derived?
+150,What is the responsibility of the organization when using yield proxies?
+151,How can the IU level yields be overlaid on the yield proxy map?
+152,What can be considered as outliers in terms of yield?
+153,How can we identify outliers in crop yield?
+154,What data can be used to derive a yield proxy map?
+156,What is the Sum Insured per hectare for loanee and non-loanee farmers?
+157,How is the Sum Insured calculated for individual farmers?
+158,What should be done in cases where crops are separately notified under irrigated and un-irrigated categories?
+160,How is the Sum Insured for an individual farmer calculated?
+161,Are there separate Sum Insured amounts for irrigated and un-irrigated areas?
+162,What is the definition of Sum Insured per hectare?
+163,How is the Sum Insured calculated for an individual farmer?
+164,Is the Sum Insured the same for loanee and non-loanee farmers?
+165,Are there any additional calculations involved in determining the Scale of Finance?
+166,How should the Sum Insured be indicated for irrigated and un-irrigated areas?
+167,What is the premium to be debited from KCC?
+168,What is the total premium for the farmer's premium (Loanee)?
+169,How much is the insured area through compulsory coverage?
+170,What is the balance of the uncovered area?
+171,What is the additional premium for non-loanee farmers?
+172,What is the premium to be debited from the KCC?
+173,What is the total premium for the Farmer's Premium (Loanee)?
+174,What is the insured area through compulsory coverage?
+175,What are the three levels of Indemnity for notified crops?
+176,Who is responsible for approving indemnity levels for notified crops at the district level?
+177,What is Threshold Yield (TY) and how is it used for claim calculation?
+178,How is the Average Yield of a notified crop in Insurance Unit (IU) calculated?
+179,How is the Threshold Yield calculated?
+180,When and at what level should the Threshold Yield be defined?
+181,What happens to the Threshold Yield in case of multi-year contracts?
+182,Who is responsible for calculating and notifying the Threshold Yield?
+183,What are the three levels of indemnity?
+184,Who approves the indemnity levels for notified crops at the district level?
+185,What is the threshold yield and how is it used for claim calculation?
+186,How is the average yield of a notified crop calculated?
+187,Why are State Governments advised to digitize their revenue records using village Census codes?
+188,What is the purpose of accessing individual land records of farmers through the National Crop Insurance Portal?
+189,How does digitizing revenue records using village Census codes help in benefit transfer?
+190,What is the role of the National Crop Insurance Portal in accessing individual land records of farmers?
+191,Why is transparency and authenticity important in benefit transfer?
+192,Why are State Govts. advised to digitize their revenue records?
+193,What is the purpose of digitizing revenue records using village Census codes?
+194,How does the digitization of revenue records benefit the government?
+195,What is the Farmer's Share of Premium?
+196,How much is the Farmer's Share of Premium?
+197,"What is the significance of 1,00,000 in the given information?"
+198,What is the farmer's share of the premium?
+199,How much premium does the farmer pay?
+200,What is the total premium for the farmer?
+201,What is the significance of 0.02 in the context?
+202,What is the amount of the Farmer's Share of Premium?
+203,What is the total yield of cotton in kilograms?
+204,What are the different pickings mentioned in the text?
+205,What is the yield of cotton for Experiment E1?
+206,What is the average yield of cotton across all experiments?
+207,What is the factor calculated as the total yield divided by the picking yield?
+208,Are there any cotton crops with less than 3 pickings in a specific Taluka?
+209,What is the total yield in kilograms?
+210,What is the yield in kilograms for each picking?
+211,What is meant by 'Crop' in the table?
+212,What is the experiment number in the table?
+213,What does the term 'Factor (Total yield/Picking Yield)' represent?
+214,Can the State TSU hire members on a contractual or temporary basis?
+215,Is it permissible for the State TSU to seek the services of other organizations or research institutes?
+216,Does the State TSU need to allocate a separate budget for running its operations?
+217,What is the role of State TSU (STSU) in agriculture?
+218,How can State TSU (STSU) avail the services of other organizations or research institutes?
+219,What is required for States to run the STSU?
+220,Can States utilize the services of State TSU (STSU) without allocating a separate budget?
+221,What is the role of State TSU (STSU)?
+222,What is Rate of Normal Premium Subsidy?
+223,Can the State/ UT Governments provide additional subsidy over and above the normal subsidy?
+224,How is subsidy in premium allowed?
+225,How is the Government premium subsidy to Private empanelled Insurance Companies routed?
+226,What is the role of AIC/ other designated agency in the implementation of the Scheme?
+227,When will the Government release their share of advance subsidy?
+228,What should Insurance Companies do to facilitate settlement of prevented risk/ mid season adversity/localized claims?
+229,What is the Rate of Normal Premium Subsidy and how is it shared between the Centre and State Govts?
+230,What should ICs do if they have objections to any Tender condition?
+231,What happens if the L1 bidder withdraws their bid after the opening of bids/allotment of work?
+232,Is the L1 bidder allowed to withdraw their bid after the opening of bids/allotment of work?
+233,"If an IC has objections to a Tender condition conflicting with guidelines, what can they do?"
+235,When can an IC raise objections to a Tender condition conflicting with guidelines?
+236,Who should the IC send a reference copy to when raising objections to a Tender condition conflicting with guidelines?
+238,What will happen to the withdrawing L1 bidder if they decide to withdraw their bid?
+239,What is the requirement of Aadhaar for availing crop insurance?
+240,What is the alternative for farmers who do not have an Aadhaar ID?
+241,What is the requirement of Aadhaar for crop loan or Kisan Credit Card (KCC) under the Interest Subvention Scheme?
+242,What is the requirement of Aadhaar for availing crop insurance from Kharif 2017 season onwards?
+243,Who are required to obtain Aadhaar number?
+244,What are the provisions for farmers who do not have an Aadhaar ID?
+245,What is the requirement for banks regarding Aadhaar for crop loans and Kisan Credit Card (KCC) under the Interest Subvention Scheme?
+246,What action should be taken for loanee farmers without an Aadhaar?
+247,Why has Aadhaar been made mandatory for availing crop insurance?
+248,What is SI in the context of insurance?
+249,How is SI determined for insurance coverage?
+250,What does Insurance/Ha mean in the given context?
+251,What is the Total SI to be considered for Insurance in this scenario?
+252,What is the SI for Compulsory Insurance in this scenario?
+253,How does insurance coverage protect farmers?
+254,What factors are typically considered when determining insurance premiums for farmers?
+255,How can farmers benefit from agricultural insurance?
+256,What is the minimum sample size at the district level?
+257,How many samples are required at the Taluka/Tehsil/Block level?
+258,What is the minimum sample size at the Mandal/Firka/Revenue Circle/Hobli level?
+259,How many samples are required at the Village/Village Panchayat level?
+261,What is the minimum sample size at the Taluka/Tehsil/Block level?
+262,What is the minimum sample size at the Mandal/Firka/Revenue Circle/Hobli or any other equivalent unit level?
+263,How many samples are required in a Village/Village Panchayat?
+265,What data needs to be made available for a requisite number of years?
+266,What specific conversion factor should be used for reporting yield for rice/paddy?
+267,"What should the State Nodal Department use for disclosure of Average Yield, Threshold Yield, and Actual Yield?"
+268,Who is responsible for the prior scrutiny of the Tender document?
+269,"What happens if there is an error, misreporting, or disparity in the Tender document?"
+270,What can the States do with regards to notifying or de-notifying IUs for a crop within a district?
+271,How can the actuarial premium rate be worked out if the deviation is greater than 10% or in case of addition of a new crop?
+272,Who determines/verifies the rates for crops that have additional IUs or are de-notified?
+273,What reimbursement are States implementing PMFBY entitled to for major crops at the Village/Village Panchayat level?
+274,What is the requirement for past yield data?
+275,What should be done while notifying the crop(s) where a specific conversion factor is being used for reporting of yield?
+276,Who is responsible for the prior scrutiny of Tender document?
+277,What is considered when there is no insured area of last year/season for proposed crops?
+278,How is bidding done?
+279,Under what circumstances can the State Government fix a ceiling on premium rates for certain crops?
+280,How should State Government disclose ceiling premium rate for a crop in the tender document?
+281,How should financial bids be called in cases where a ceiling has been indicated?
+282,What is the requirement for the opening of bid/envelop in cases with a ceiling?
+283,How should participating Insurance Companies submit their bid offers?
+284,What can the State Government do if there is a ceiling on premium rates?
+285,What will be considered if there is no insured area for a crop in the last year/season?
+286,How is the bidding process conducted?
+287,What factors are required to be computed for yield calculation?
+288,What is the significance of conducting well conducted CCEs?
+289,How many well conducted CCEs should be used for computing the factors?
+290,What is an example of yield calculation for a multi-picking crop?
+291,What are CCEs?
+292,What is the Taluka?
+293,Why is it important to compute the factors from CCEs conducted in the same Taluka?
+294,What is the purpose of computing the proportion of picking wise yield?
+295,What needs to be computed in order to determine the factors for proportion of picking wise yield?
+296,What is the minimum number of well conducted CCEs required to compute the factors?
+297,What is the purpose of computing the factors for proportion of picking wise yield?
+298,What does CCE stand for?
+299,What is the cut-off date for loanee farmers to apply for the Kharif season?
+300,When should non-loanee farmers apply for the Rabi season?
+301,"Within how many days should loanee farmers submit their applications after being intimated by ICs, CSCs/Banks/Intermediary?"
+302,What is the cut-off date for CSCs/Banks/Intermediary to correct/update the paid application intimated by ICs on the Crop Insurance Portal?
+303,When should the Insurer accept the corrected/updated applications from the Bank/CSC?
+304,By when should Banks/ICs hand over the insurance acknowledgement receipt along with folio to the insured farmer for enrolment through their intermediaries?
+305,What is the cut-off date for processing of applications by ICs and auto approval of applications of insured farmers on the crop insurance Portal?
+306,When should Insurance Companies/GOI/State raise bills/requisitions with supporting documents for releasing advance premium subsidy?
+307,What is the role of CSCs under the Ministry of Electronics and Information Technology (MeITY) in enrolling non-loanee farmers?
+308,What is the requirement for Insurance Companies in relation to CSCs?
+309,Is there any fee or charge borne by the farmers being enrolled through CSCs?
+310,Are any qualifications or certifications required for the VLEs of CSCs in facilitating the enrollment of non-loanee farmers?
+311,What is required from the empanelled Insurance Companies in relation to CSCs and the enrollment of non-loanee farmers?
+312,Will other designated intermediaries be linked with the Portal?
+313,What is the requirement for empanelled Insurance Companies to register on the portal?
+314,What guidelines do agents/intermediaries have to follow in the enrollment process of non-loanee farmers?
+315,Who are the CSCs engaged to enrol non-loanee farmers?
+316,What are the Insurance Companies required to do in relation to CSCs?
+317,Is any other agreement or payment required for enrolment of non-loanee farmers through CSCs?
+318,Who is considered as the nodal agency for engagement with the Ministry of Agriculture and Farmers Welfare and Insurance Companies?
+319,Do the farmers being enrolled through CSCs need to bear any charges or fees?
+320,Is a separate qualification or certification required for the VLEs of CSCs to facilitate enrolment of non-loanee farmers?
+321,What is the last date for enrolment of farmers for Kharif season?
+322,What is the last date for enrolment of farmers for Rabi season?
+323,When is the cut-off date for receipt of applications and premium from farmers?
+324,When should the declaration of prevented sowing be made?
+325,Within how many days should the banks and portals process the enrolment of farmers and debit of premium?
+326,When is the cut-off date for electronic remittance of premium and uploading of details of individual covered farmers?
+327,When should insurance companies and their agents remit the farmer's premium electronically?
+328,What is the cut-off date for insurers to accept or reject the farmer's data on the portal?
+329,What is the last date for enrolment of farmers for notified crop(s) in the Kharif season?
+330,What is the last date for enrolment of farmers for notified crop(s) in the Rabi season?
+331,When should the declaration of prevented sowing be made by the State Government or Insurance Company?
+332,Within how many days of the cut-off date should banks and the portal complete the premium debit process for loanee and non-loanee farmers?
+333,What is the purpose of the National Technical Support Unit (NTSU) or the Central Program Management Unit (CPMU)?
+334,What is the role of NTSU in calculating Loss Cost?
+335,What is the purpose of providing Loss Cost information to DAC & FW/Concerned States?
+336,What is the potential methodology used by NTSU for risk classification/premium rating?
+337,What should States/UTs implementing Schemes do in addition to NTSU/CPMU at the Central level?
+338,What is the purpose of the National Technical Support Unit (NTSU) or Central Program Management Unit (CPMU)?
+339,What does NTSU calculate in relation to crop insurance?
+340,What is the purpose of calculating the Loss Cost (LC) by NTSU?
+341,Who is eligible for insurance coverage on the National Crop Insurance Portal?
+342,"What is the consequence of incorrect, partial, or non-uploading of details on the Portal?"
+343,Who is responsible for payment of claims to farmers who are denied crop insurance due to incomplete details on the Portal?
+344,Why is the entry of detailed information of insured farmers on the National Crop Insurance Portal essential?
+345,Which entities are required to enter the detailed information of insured farmers on the National Crop Insurance Portal?
+346,What will happen if the detailed information of insured farmers is not entered on the National Crop Insurance Portal?
+347,What is the purpose of uploading data on the National Crop Insurance Portal?
+348,What is the role of insurance companies in the entry of information on the National Crop Insurance Portal?
+349,Which farmers are eligible for insurance coverage on the National Crop Insurance Portal?
+350,What is the purpose of the cut-off date for loanee and non-loanee cultivators?
+351,Where can the latest copy of the Crop Calendar be found?
+352,What factors are considered by the SLCCCI while determining seasonality discipline?
+353,What happens if the SLCCCI violates the seasonality discipline?
+354,What is the purpose of the broad indicative seasonality discipline?
+355,What is the purpose of the cut-off date in the loanee and non-loanee cultivators?
+356,"Where can the latest copy of Crop Calendar (District Wise, Crop Wise) be found?"
+357,What factors are considered by SLCCCI when fixing the seasonality discipline of the coverage?
+358,What is the maximum premium payable by a farmer for Kharif crops?
+359,What is the maximum premium payable by a farmer for Rabi crops?
+360,What is the maximum premium payable by a farmer for Annual Commercial/Annual Horticultural crops?
+361,What is the maximum premium payable by a farmer for Perennial horticultural crops?
+362,How is the premium calculated for Kharif crops?
+363,How is the premium calculated for Rabi crops?
+364,How is the premium calculated for Annual Commercial/Annual Horticultural crops?
+365,How is the premium calculated for Perennial horticultural crops?
+366,What are the different seasons mentioned in the table?
+367,What crops are covered under the Kharif season?
+368,What crops are covered under the Rabi season?
+369,What is the maximum premium payable by a farmer for Kharif and Rabi crops?
+370,What is the purpose of mapping census codes of villages with higher administrative units?
+371,What are some examples of higher administrative/revenue units that villages can be mapped with?
+372,Why is it important for State Governments to provide geo-coded village maps in digital format?
+373,What is meant by geo-coded maps?
+374,"What is the benefit of integrating geo-coded village maps with other apps like CCEs Agri App, Loss reporting/Assessment App?"
+375,What kind of digital format should the geo-coded village maps be provided in?
+376,How does mapping and standard identification through census codes benefit the country?
+377,Why is it important to have a standard mechanism of mapping and identification across the country?
+378,What is the purpose of mapping census codes of villages with higher administrative/revenue units across the country?
+379,Why is it important for State Governments to provide geocoded village maps in digital format?
+380,What system will be used by the Government of India and State Government to remit funds to State Government agencies?
+381,"Which payment gateway is mandated for banks, CSC, and Insurance Agents to remit premium payments to Insurance Companies?"
+382,"What should stakeholders, including Insurance Companies, Bank branches, CSC, and Insurance Agents, do to comply with the requirements?"
+383,What access will Insurance companies have on the National Crop Insurance Portal?
+384,What is the recommended financial system for remitting funds to State Govt and agencies?
+385,"What is the mandatory method for remitting premium payment to insurance companies for Banks, CSC, and Insurance Agents?"
+386,What type of financial transaction is not allowed for remittance in the National Crop Insurance Programme?
+387,What data will be provided to insurance companies on the National Crop Insurance Portal?
+388,What system will be used by the Government of India to remit funds to state governments and agencies?
+389,What is the purpose of the Operational Guidelines?
+390,What are the various activities covered under the Scheme?
+391,In what circumstances is there an exception for providing yield data?
+392,What is the role of State Govt./ UT in the Scheme?
+393,What are the activities for which the State Govt./ UT needs to notify seasonality discipline?
+394,"In exceptional cases, when should the yield data be provided?"
+395,What should be provided at the time of bidding when yield data is not available?
+396,How are admissible claims calculated in exceptional cases when yield data is not available?
+397,What is the criteria for compulsory coverage of crop insurance?
+398,How should banks calculate the eligibility of loan amount for different crop seasons?
+399,What additional loan does the disbursing bank branch/PACS provide for crop insurance?
+400,How is the Sum Insured amount determined for a notified crop?
+401,What is the basis for compulsory coverage under crop insurance?
+402,Are farmers eligible for crop insurance if they avail/renew the KCC loans after the cut-off date for the season?
+403,What is considered when banks sanction a loan for a notified crop in a notified area?
+404,How should banks calculate the eligibility of loan amount for a crop during Kharif and Rabi seasons?
+405,What is the additional loan amount provided by the disbursing bank branch/PACS for crop insurance?
+406,What does the empanelment of Insurance Companies for implementation of PMFBY imply?
+407,What are the major activities Insurance Companies need to carry out for the implementation of PMFBY?
+408,What is the requirement regarding the pilot study for the implementation of PMFBY?
+409,What infrastructure should be deployed by Insurance Companies for increasing outreach to rural farmers?
+410,What commitment is expected from Insurance Companies in terms of non-loanee coverage?
+411,What is the role of manpower in the implementation of PMFBY?
+412,What resources should be allocated by Insurance Companies for the implementation of PMFBY?
+413,Who should Insurance Companies submit the detailed planning to for the implementation of PMFBY?
+414,What does the empanelment of Insurance Companies for implementation of the Scheme (PMFBY) imply?
+415,What are the major activities that the empanelled Insurance Companies need to carry out for the implementation of PMFBY?
+416,What is the purpose of the pilot study to be carried out by the empanelled Insurance Companies?
+417,What is the objective of deploying requisite infrastructure by the empanelled Insurance Companies?
+418,What is the purpose of adjusting the premium in respect of affected IUs including subsidy?
+419,When will the settlement of admissible claims based on Yield data/Post harvest losses be done?
+420,What happens with the remaining Government subsidy?
+421,What is the requirement for empanelled insurance companies regarding access to agencies verifying the accounts and audit in respect of Crop Insurance?
+422,What should be done in case the State Government subsidizes the full farmers' share of premium?
+423,What is the timeline for the release of the State share of premium subsidy by the State Government?
+425,How are claims based on yield data and post-harvest losses settled?
+426,What happens to the remaining Government subsidy after settling the claims?
+427,What is the requirement for non-loanee cultivators to get insured?
+428,What is the role of the designated intermediaries in the insurance process?
+429,What type of verification is required for farmers buying crop insurance through CSCs or online?
+431,What role do designated intermediaries play in the insurance process?
+432,How is the application signature obtained for crop insurance bought through CSCs or online?
+433,What are the mandatory requirements for non-loanee cultivators to hold in order to get insured?
+434,Which parties are involved in facilitating the remittance of claims for insured non-loanee cultivators?
+435,What is required for a non-loanee cultivator to become eligible for insurance?
+436,What is considered as the applicant's signature for crop insurance bought through CSCs or online?
+437,What is the implication of a State Govt./UT issuing a notification for the implementation of the Scheme (PMFBY)?
+438,What are the main conditions that bind States/UTs in relation to PMFBY?
+439,What is the role of smart phones and hand-held devices in PMFBY?
+440,What is the significance of conducting Crop Cutting Experiments (CCEs) in PMFBY?
+441,Where should CCE-based yield data be uploaded in PMFBY?
+442,What is the importance of budgetary provision in PMFBY?
+443,What are pilot studies in relation to PMFBY?
+444,What is the role of the Department of State Govt. and the State Level Coordination Committee on Crop Insurance (SLCCCI) in PMFBY?
+445,Who can be included in the State Level Coordination Committee on Crop Insurance (SLCCCI) in PMFBY?
+446,What does the issuance of a notification by the State Govt./UT imply?
+447,What are the main conditions binding on States/UTs with regard to PMFBY?
+448,How does the assessment of damage for crop damage arising from post-harvest losses and localized risks take place?
+449,What factors are considered by SLCCCI for the purpose of notification?
+450,What should state governments ensure with regard to the crops proposed to be notified?
+451,What kind of data should state governments provide to insurance companies?
+452,What information should be included in the notification by state governments?
+453,How should state governments plan and conduct CCEs for irrigated and un-irrigated areas under a crop?
+454,How is the assessment of crop damage done for claims arising out of post-harvest losses and localized risks?
+456,What is the responsibility of state governments regarding coverage of major crops?
+457,What is the objective of Pradhan Mantri Fasal Bima Yojana?
+458,Who does Pradhan Mantri Fasal Bima Yojana aim to benefit?
+459,What does Pradhan Mantri Fasal Bima Yojana aim to achieve?
+460,How does Pradhan Mantri Fasal Bima Yojana support agriculture?
+461,What is the purpose of Pradhan Mantri Fasal Bima Yojana?
+462,What sector does Pradhan Mantri Fasal Bima Yojana focus on?
+463,What is the name of the insurance scheme for crop protection in India?
+464,What is the significance of Pradhan Mantri Fasal Bima Yojana?
+465,What is the aim of Pradhan Mantri Fasal Bima Yojana (PMFBY)?
+466,Who is Pradhan Mantri Fasal Bima Yojana (PMFBY) for?
+467,How does Pradhan Mantri Fasal Bima Yojana (PMFBY) support sustainable production?
+468,What does Pradhan Mantri Fasal Bima Yojana (PMFBY) aim to achieve in the agriculture sector?
+469,What is the main goal of Pradhan Mantri Fasal Bima Yojana (PMFBY)?
+470,What kind of support does Pradhan Mantri Fasal Bima Yojana (PMFBY) offer to farmers?
+471,What is the National Crop Insurance Portal (NCIP)?
+472,What responsibilities do different stakeholders have on the National Crop Insurance Portal?
+473,What basic information needs to be digitized and uploaded on the National Crop Insurance Portal by implementing states and insurance companies?
+474,"What will happen if there are any incorrect entries, errors, or omissions in the digitized information on the National Crop Insurance Portal?"
+475,When should the digitization of basic information/notification be done for the Crop Insurance Scheme?
+476,Can state governments create or use separate portals/websites for Crop Insurance purposes?
+477,What are the defined roles and responsibilities of stakeholders on the National Crop Insurance Portal?
+478,What is the National Crop Insurance Portal?
+479,What is the responsibility of stakeholders in the National Crop Insurance Portal?
+480,What information needs to be uploaded on the National Crop Insurance Portal by implementing states and insurance companies?
+481,Who is responsible for any incorrect entry or errors on the National Crop Insurance Portal?
+482,What is the paid-up capital of the FPO?
+483,What is the amount of equity grant sought by the FPO?
+484,What is the maximum shareholding allowed for an individual shareholder member in the FPO?
+485,In which bank is the account of the FPO maintained?
+486,What is the account number of the FPO?
+487,What is the branch name and IFSC code associated with the FPO's bank account?
+488,How many directors are there in the FPO and what are their briefs?
+489,What is the mode of election or nomination for the FPO?
+490,What is the evaluation criteria for the first envelope of bids for crop insurance?
+491,What happens if a crop is dropped from the proposed list for notification?
+492,Under what circumstances can re-tendering be held?
+493,What is the requirement for states regarding the National Crop Insurance Portal?
+494,What conditions should be incorporated in the bid document itself?
+495,What is the first step in evaluating the bid?
+496,What happens if the actuarial rates offered by the Insurance Companies do not align with the risk propensity and weather susceptibility of the crop?
+497,How is the evaluation of the L1 bidder performed for the remaining crops?
+498,When is the second envelope opened by the State Government?
+499,What is the role of a member in Agriculture?
+500,What does a member in Horticulture do?
+501,What are the duties of a member in Animal Husbandry?
+502,What is the role of a member in Fisheries?
+503,What does a member in Marketing do?
+504,What are the responsibilities of a member in Cooperation?
+505,What is the role of a DDM (NABARD)?
+506,What is a member in the context of Agriculture/Horticulture/Animal Husbandry/Fisheries/Marketing/Cooperation?
+507,What does DDM stand for in the field of NABARD?
+508,What is the role of a member in agriculture?
+509,What are the responsibilities of a member in horticulture?
+510,What does a member in animal husbandry do?
+511,What is the principle on which the Scheme operates?
+512,Who is responsible for notifying the crops and defined areas covered during the season?
+513,What unit is notified as an insurance unit for major crops defined at the District/Taluka level?
+514,What unit is notified for other crops which are not considered major crops?
+515,How is a crop determined as a major crop for deciding the Insurance Unit level?
+517,How are the defined areas for the Scheme determined?
+518,What unit is notified by the State/UT Government as an insurance unit for major crops defined at District/Taluka level?
+519,Who should I contact for further information about risk analysis?
+520,How can I contact the Chief General Manager of the Small Farmers' Agri-Business Consortium?
+521,Where is the head office of the National Bank for Agriculture & Rural Development located?
+522,How can I contact the Managing Director of the Small Farmers' Agri-Business Consortium?
+523,Where can I find further information about the Small Farmers' Agri-Business Consortium?
+524,How can I contact the Agriculture Marketing Adviser at the Directorate of Marketing & Inspection?
+525,Where is the office of the National Co-operative Development Corporation located?
+526,How can I contact the National Co-operative Development Corporation?
+527,What is the role of an FPO?
+528,What is Aadhar Number in the context of FPOs?
+529,What qualifications are required to be a member of an FPO?
+530,Is there any tenure requirement for being a member of an FPO?
+531,What is the contact information provided by the FPOs?
+532,What is the significance of land holding in FPOs?
+533,Who are the members of the Board/Governing Body in an FPO?
+534,How many members are usually there in the Board/Governing Body of an FPO?
+535,What is the role of the FPO?
+536,What is Aadhaar number and why is it needed?
+537,What qualifications are required to be a member of the FPO?
+538,Is there a specific tenure for being a member of the FPO?
+539,What are the three categories of food crops?
+540,What are the types of crops included in the category of oilseeds?
+541,What are the two types of crops included in the category of annual commercial crops?
+542,Which methodology is used for yield estimation of perennial horticultural crops?
+543,Are there any pilots conducted for perennial crops?
+544,What are the different categories of food crops?
+545,What are oilseeds?
+546,What are the annual commercial/horticultural crops?
+547,Are there any special considerations for estimating yields of perennial horticultural crops?
+548,What are the types of food crops?
+550,What are the annual commercial crops?
+551,What are the annual horticultural crops?
+552,What information is recorded in the S.No column?
+553,What does the Member Name & Gender column represent?
+554,What does the Date of Membership column indicate?
+555,What does the Share Money deposited by member column represent?
+556,What information is provided in the No. of Shares allotted column?
+557,What does the Land holding of Shareholders column signify?
+558,What information is recorded in the Land Record (Khasra No.) column?
+559,Who are the Signatories mentioned in the document?
+560,Who verifies and certifies the document?
+561,What information is included in the member record?
+562,What is the purpose of share money deposited by the member?
+563,What does the number of shares allotted represent?
+564,What is the folio share distinctive number used for?
+565,Why is it important to stabilize the income of farmers?
+566,What are the challenges faced by farmers in maintaining a stable income?
+567,How can stabilizing farmers' income contribute to the overall economy?
+568,What measures can be taken to stabilize the income of farmers?
+569,What role can government policies play in stabilizing farmers' income?
+570,Why is it important to support small-scale farmers in stabilizing their income?
+571,How can farm diversification contribute to stabilizing farmers' income?
+572,What are the potential benefits of stabilizing farmers' income?
+573,What is the importance of stabilizing the income of farmers?
+574,How does stabilizing the income of farmers benefit them?
+575,What are some challenges faced by farmers in stabilizing their income?
+576,How can governments support the stabilization of farmers' income?
+577,What role can ICs play in facilitating the use of technology?
+578,What is the importance of satellite and UAV remote sensing in agriculture?
+579,How can technology aid in crop area estimation and yield disputes?
+580,What are the benefits of using remote sensing in agriculture?
+581,How can technology assist in the assessment of prevented sowing?
+582,What is the significance of technology in loss assessment in agriculture?
+583,How can technology contribute to the clustering of districts in agriculture?
+584,What is the role of ICs in promoting the use of technology for CCE planning?
+585,How can ICs facilitate the use of technology?
+586,What is the objective of the Scheme?
+587,How does the Scheme adopt technology for administration?
+588,Who is covered under the Scheme?
+589,Which crops are covered under the Scheme?
+590,What are the risks and exclusions covered under the Scheme?
+591,What are the preconditions for implementing the Scheme?
+592,How are funds remitted under the Scheme?
+593,What is the purpose of digitization of land records?
+594,What is the purpose of the national level Project Management Advisory and Fund Sanctioning Committee (N-PMAFSC) in DAC&FW?
+595,Who is the Chairperson of the N-PMAFSC committee?
+596,Who are the members of the N-PMAFSC committee?
+597,Can additional members be co-opted to the N-PMAFSC committee?
+598,Which office provides necessary secretarial services and assistance to the N-PMAFSC committee?
+599,What is the role of the Directorate of Marketing & Inspection in relation to the N-PMAFSC committee?
+600,What is the purpose of the national level Project Management Advisory and Fund Sanctioning Committee (N-PMAFSC)?
+601,Who is the Chairperson of the national level Project Management Advisory and Fund Sanctioning Committee (N-PMAFSC)?
+602,When should the meeting of SLCCCI be convened?
+603,What should the State/UT Govt. ensure prior to the commencement of the crop season?
+604,What should be included in the Tender Document and State Notification?
+605,What data should be uploaded on the National Crop Insurance Portal before floating the Tender?
+606,What is the basis for the calculation of the lowest weighted premium of a district?
+608,What should be done at least one month in advance of the crop season?
+609,What details should be part of the Tender Document and State Notification?
+610,What does AIC stand for?
+611,What does ACF stand for?
+612,What does APR stand for?
+613,What does ARG stand for?
+614,What does AWS stand for?
+615,What does AY stand for?
+616,What does CB stand for?
+617,What does CBS stand for?
+618,Why is it important to encourage farmers to adopt innovative and modern agricultural practices?
+619,What are some examples of innovative and modern agricultural practices?
+620,How can innovative agricultural practices contribute to sustainable farming?
+621,What are the potential challenges or barriers faced by farmers when adopting innovative agricultural practices?
+622,How can governments and organizations support farmers in adopting innovative and modern agricultural practices?
+623,What are the potential economic benefits of adopting innovative and modern agricultural practices?
+624,How can the adoption of innovative agricultural practices contribute to environmental conservation?
+625,What are the social benefits of encouraging farmers to adopt innovative and modern agricultural practices?
+626,What are some benefits of adopting innovative and modern agricultural practices?
+627,How can innovative agricultural practices help farmers increase their yields?
+628,What role does technology play in modern agricultural practices?
+629,What are some examples of innovative agricultural practices?
+630,Who is responsible for notifying the weather data provider or expert agency for assessing losses and computing claims?
+631,Who bears the cost of the weather data provided by the concerned insurance companies?
+632,What are AWS and ARG?
+633,What standards do the notified AWS and ARG need to meet?
+634,What is the purpose of the weather data provided by the notified AWS and ARG?
+635,Who determines the methodology for assessing the extent of losses and computation of claims?
+636,Who notifies the concerned weather data provider/expert agency?
+637,What is the purpose of the notified AWS and ARG?
+638,What is the purpose of providing financial support to farmers?
+639,Who benefits from the financial support provided to farmers?
+640,What kind of events can lead to crop loss or damage for farmers?
+641,Why is it important to provide financial support to farmers in such situations?
+642,What are some examples of unforeseen events that can impact farmers?
+643,How does the financial support help farmers in recovering from crop loss or damage?
+644,"Is the financial support only provided for crop loss, or does it also cover damage to other agricultural assets?"
+645,How can farmers access the financial support in case of crop loss or damage?
+647,What does crop loss/damage refer to?
+648,Why do farmers need financial support for crop loss/damage?
+649,What are some examples of unforeseen events that can cause crop loss/damage?
+650,Why is monitoring of the scheme at the District/Cluster Level important?
+651,What is the purpose of the District level Monitoring Committee (D-MC)?
+652,Who constitutes the District level Monitoring Committee (D-MC)?
+653,What is the role of the District Collector in the District level Monitoring Committee (D-MC)?
+654,Why is effective coordination among the stakeholders important for the success of the scheme?
+655,What are some of the challenges faced by FPOs that are addressed by the District level Monitoring Committee (D-MC)?
+656,What is the significance of cluster development in the implementation of the scheme?
+657,Why is monitoring of the scheme important at the District/Cluster level?
+658,What is the role of the District level Monitoring Committee (D-MC) in the implementation of the scheme?
+659,Who is part of the District level Monitoring Committee?
+660,What is the purpose of constituting the District level Monitoring Committee?
+661,Why is effective coordination among stakeholders important for the success of the scheme?
+662,What are the ongoing schemes of the Government that can be used to enhance the cost effectiveness of FPOs?
+663,Which government scheme can an FPO avail assistance from to develop post-harvest management and marketing infrastructure?
+664,What assistance can states or union territories avail for the development of marketing and farm-level value addition infrastructure and facilities for FPOs?
+665,Which ongoing government scheme can be converged to create infrastructure like Custom Hiring Centre/Common Facilitation Centre and machinery/equipment for FPOs?
+666,Can states or union territories supplement the activities and infrastructure of FPOs using their own fund?
+667,What schemes can be used in convergence with the ongoing schemes of the government to enhance the cost effectiveness of FPOs?
+668,Which scheme can an FPO avail assistance from if it wants to develop post-harvest management and marketing infrastructure?
+669,What assistance can states/Union Territories avail for the development of marketing and farm-level value addition infrastructure/facilities for FPOs?
+670,What can states/Union Territories do to supplement the activities of FPOs?
+672,What type of secured credential/login is preferred for all stakeholders on the portal?
+673,Can insurance companies distribute/collect details of insured farmers through any other proforma/utility/web portal?
+674,Who will be eligible for insurance coverage and premium subsidy from the State and Central Government?
+675,What type of data will be available on the National Crop Insurance Portal?
+676,What is the requirement for banks/financial institutions/other intermediaries regarding the transfer of individual farmer's data?
+677,Is there a proposal to develop an integrated platform/portal for both PMFBY and Interest Subvention Scheme?
+678,How should insurance companies monitor crop health and Crop Cutting Experiments (CCEs)?
+679,What is the purpose of the National Crop Insurance Portal?
+680,How are the stakeholders provided access to the National Crop Insurance Portal?
+681,Are Insurance Companies allowed to use separate platforms to collect details of insured farmers?
+682,Who is eligible for insurance coverage and premium subsidy?
+683,What kind of data will be available on the National Crop Insurance Portal?
+684,Who are the District level officers of line departments?
+685,What is the role of District level officers of line departments?
+686,Why are District level officers of line departments important?
+687,How do District level officers of line departments coordinate with other departments?
+688,What are the challenges faced by District level officers of line departments?
+689,How can District level officers of line departments ensure effective service delivery?
+690,What skills are required for District level officers of line departments?
+691,How can District level officers of line departments promote community engagement?
+692,Who are the District level officers mentioned in the text?
+693,What is the role of the District level officers?
+694,What is the significance of Member* (iii) in the text?
+695,Can you provide more information about the line departments mentioned in the text?
+696,What is the role of a Lead District Manager?
+697,What is the main responsibility of a Lead District Manager?
+698,What is the purpose of having a Lead District Manager?
+699,How does a Lead District Manager contribute to financial inclusion?
+700,What are some tasks performed by a Lead District Manager?
+701,How does a Lead District Manager support rural development?
+702,What skills are required to be a successful Lead District Manager?
+703,What are the benefits of having a Lead District Manager system?
+704,What is a Lead District Manager?
+705,What are the responsibilities of a Lead District Manager?
+706,What is the role of a Lead District Manager in facilitating access to agricultural credit?
+707,How does a Lead District Manager promote and implement government schemes and programs related to agriculture?
+708,What is an Equity Grant facility?
+709,What is the purpose of submitting an application along with the mandatory documents?
+710,Who can apply for an equity grant?
+711,What happens after the equity grant application is submitted?
+712,What does it mean to certify that no member of the FPO had availed the equity grant facility earlier?
+713,Why do FPOs request the approval of the equity grant?
+714,What are the mandatory documents required for the equity grant application?
+715,Who is the authorized representative responsible for submitting the equity grant application?
+716,What is the purpose of the certificate mentioned in the text?
+717,What is the request made in the application submitted?
+718,Who signs the letter in the text?
+719,What documents are submitted along with the application?
+720,Who signed the agreement?
+721,Who is the implementing agency?
+722,What is the purpose of the agreement?
+723,How long will the agreement be in force?
+724,What is the designation of the person who signed the agreement?
+725,What is the significance of the seal in the agreement?
+726,Who is responsible for the implementation of the agreement?
+727,Can the agreement be terminated?
+728,What is the duration of the agreement?
+731,What is the role of the CEO & Board of Directors in the agreement?
+732,Which farmers are covered compulsorily under the Scheme?
+733,"Does the provision of compulsory coverage override any decision taken by Financial Institutions (FIs), including PACS?"
+734,Are non-standard KCC/crop loans covered compulsorily under the Scheme?
+735,What types of loans are not covered under the Scheme?
+736,What is the Voluntary Component of the Scheme?
+737,Which farmers are compulsorily covered under Seasonal Agricultural Operations (SAO) loans?
+738,Can non-standard KCC/crop loans be covered compulsorily under the scheme?
+739,What should bank branches do for farmers with non-standard KCC/crop loans?
+740,What is the purpose of monitoring and reviewing the progress of FPO development and functioning?
+741,What is the role of the committee in formulating a strategy for FPO development?
+742,How does the committee assist in the identification of produce clusters for FPOs?
+743,What is the committee's role in establishing an effective extension mechanism for FPOs?
+744,How does the committee assist FPOs in obtaining necessary licenses and registrations?
+745,In what way does the committee ensure the involvement of FPOs in government schemes?
+746,How does the committee contribute to the development of common facility centers and custom hiring centers?
+748,What is the role of the committee in promoting the formation and development of FPOs?
+749,How does the committee address the constraints in implementation of the FPO development scheme?
+750,What is the role of State Government departments in FPO development?
+751,How is the extension mechanism for FPOs implemented?
+752,What are the stages of crop risks covered under the Scheme?
+753,What is Prevented Sowing/Planting/Germination Risk?
+754,What risks are covered under Standing Crop (Sowing to Harvesting) Risk?
+755,What is the coverage for Post-Harvest Losses?
+756,What are the risks covered under Localized Calamities?
+757,What is the add-on coverage for crop loss due to attack by wild animals?
+758,What risks are covered under the Scheme?
+759,What is prevented sowing/planting/germination risk?
+760,What risks are covered under standing crop insurance?
+761,What are post-harvest losses covered under the Scheme?
+762,What are localized calamities covered under the Scheme?
+763,What is the purpose of the meeting?
+764,How was the FPO formed?
+765,What is the basis of allocation for the grant?
+766,How should the accounts of the grant be maintained?
+767,Who is eligible to receive the benefit of the support?
+768,What happens if a shareholder member quits the FPO?
+769,What did the shareholders agree to in the AGM/EGM?
+770,Who is authorized to sign the documents and forms pertaining to the support?
+771,What should be done with the resolution?
+772,Where will the meeting take place?
+773,When will the meeting take place?
+774,Why was the FPO formed?
+775,What is the purpose of the Equity Grant support?
+776,How will the fund allocation be determined?
+777,How will the accounts of the grant be maintained?
+778,Who is eligible for coverage in the insurance programme?
+779,What kind of farmers are required to submit land records?
+780,What documents do non-loanee farmers need to submit?
+781,What are the land records that non-loanee farmers need to provide?
+782,Who defines the requirements for land record documentation?
+783,What should sharecroppers and tenant farmers provide as documentation?
+784,What is the eligibility criteria for farmers in the insurance programme?
+785,What is insurable interest in the crops?
+786,Who is eligible for coverage under the insurance programme?
+787,What percentage of the total budget for PMFBY is earmarked for administrative expenses?
+788,What are the various expenses covered by the earmarked budget for PMFBY?
+789,What provisions has the Government of India made for separate allocations under the Crop Insurance program?
+790,What should the States do in terms of budgetary allocation for the Crop Insurance program?
+791,"What percentage of the total budget for PMFBY should be earmarked for administrative expenses, publicity, and yield/loss assessment expenses?"
+792,What expenses can be covered using the earmarked budget for PMFBY?
+793,What provisions has the Government of India made for separate allocations under subheads in the Crop Insurance program under PMFBY/RWBCIS?
+794,What allocations should the states make for the Crop Insurance program under PMFBY/RWBCIS?
+795,What is the purpose of the request letter addressed to the Bank Manager on the original letterhead of FPO?
+796,What are the enclosures required to be included with the request letter?
+797,What is the purpose of the Implementation Schedule?
+798,What is the Affidavit of the promoters?
+799,What is the purpose of the Field Inspection Report of the bank official?
+800,What are the mandatory documents required for equity certification?
+801,What does the list of shareholders include?
+802,Why is the up-to-date statement of account required for the bank official?
+803,What does the Potential Impact on small farmer producers refer to?
+804,What is the purpose of the signature of the Branch Manager with branch seal on the date of the document?
+805,Who is required to sign on each page of the original letterhead of the FPO?
+806,What is the purpose of the Promoter's request letter?
+807,What is the significance of the Sanction letter?
+808,"Why is capacity building, training, and skill development important for the development of FPOs?"
+809,Which institution is designated as the Nodal Training Institution at the central level for FPOs?
+810,Which organizations will the BIRD work in partnership with for training FPOs?
+811,Who will prepare the training module and training schedule for FPOs?
+812,How are the training expenses shared when BIRD is the nodal agency?
+813,What topics are covered in the training for the promotion of FPOs?
+814,Which stakeholders are identified by the Nodal training institution for capacity building and skill development?
+815,Which agencies are allowed/designated as Implementing Agencies for FPOs?
+816,Why is capacity building important for the development of FPOs?
+817,Why is it important to ensure the flow of credit to the agriculture sector?
+818,What are the benefits of ensuring credit flow to the agriculture sector?
+819,How does credit flow to the agriculture sector contribute to food security?
+820,How does ensuring credit flow protect farmers from production risks?
+821,In what ways does credit flow enhance the growth and competitiveness of the agriculture sector?
+822,How does credit flow contribute to crop diversification?
+823,What are the potential risks faced by farmers in the absence of credit flow?
+824,How does credit flow to the agriculture sector benefit smallholder farmers?
+825,How does credit flow contribute to the overall development of the agriculture sector?
+826,What is the purpose of ensuring flow of credit to the agriculture sector?
+827,How does ensuring flow of credit to the agriculture sector contribute to food security?
+828,What is the requirement for the shareholder list and share capital contribution?
+829,What is the resolution needed for seeking equity grant for members?
+830,What information should be included in the consent of shareholders?
+831,What are the requirements for the audited financials of FPO?
+832,What is the requirement for the photocopy of FPO Bank Account Statement?
+833,What should the business plan and budget include?
+834,What are the identity proof options for the representatives/directors authorized by the board?
+835,How many board member authorized representatives should sign each page of the application form and accompanying documents?
+836,What are the requirements for the shareholder list and share capital contribution?
+837,What is the resolution needed for seeking equity grant?
+839,What is required in terms of the FPO's financials?
+840,What is the name of the Implementing Agency and what are their contact details?
+841,Who should sign each page of the application form?
+842,What information is required about the applicant Bank Branch?
+843,What information is required about the Borrower FPO?
+844,What information is required about the banking facilities sanctioned by the sanctioning authority?
+845,What is the name and address of the controlling office of the Branch?
+846,What is the present status of the FPO activity?
+847,What is the status of the accounts related to the FPO activity?
+848,What is the name of the implementing agency?
+849,What are the details required for the address of the implementing agency?
+851,What information is needed for the applicant bank branch?
+852,What information is required for the borrower FPO?
+853,What are the components for which details are required?
+854,What is LINAC and what is its role?
+855,Which institutions does LINAC partner with for training purposes?
+856,What is the process for approval of LINAC's training module and schedule?
+857,How are training expenses handled when LINAC is the nodal agency?
+858,Is there a possibility of other training institutes being designated as nodal training institutes?
+859,What is the preferred location for training programs conducted by central nodal training institutes?
+860,"How often are Boards of Directors (BoDs), CEOs/Managers, and other stakeholders trained?"
+861,"What provisions are made for the boarding, lodging, and transportation of trainees?"
+862,What is the additional responsibility of Nodal Training Institutes regarding trainee and FPO performance?
+863,What is LINAC?
+864,Which institutions will LINAC work in partnership with for training?
+865,What is the role of LINAC regarding training module and schedule?
+866,How will the training expenses be claimed by LINAC?
+867,What is the purpose of the SLCCCI meeting?
+868,What activities are carried out during the SLCCCI meeting?
+869,What is the role of the Nodal Department of States/UTs?
+870,When is the uploading of requisite information/data on the crop insurance Portal and issuing of tender documents done?
+871,What is the finalization of the Tender and the award of work?
+872,When does the finalization of the Tender and award of work take place?
+873,When does the digitization of notification and downloading/issuance of notification from the crop insurance Portal take place?
+874,What are the activities carried out during the awareness/sensitization/training programmes?
+875,What does Table 1 provide information about?
+876,What does Table 2 specify?
+877,What does Table 3 describe?
+878,What is the purpose of Table 4?
+879,What does Table 5 explain?
+880,What does Table 7 provide details on?
+881,What is the content of Table 9?
+882,What does Table 10 outline?
+883,What is the purpose of the State Level Consultative Committee (SLCC)?
+884,Who is the Chairperson of the State Level Consultative Committee (SLCC)?
+885,Who are the members of the State Level Consultative Committee (SLCC)?
+886,What is the role of the Member Secretary in the State Level Consultative Committee (SLCC)?
+887,Who can be invited as a special invitee in the meetings of the State Level Consultative Committee (SLCC)?
+888,How are farmer members or representatives of FPOs included in the State Level Consultative Committee (SLCC)?
+889,Who can serve as the Member Secretary of the State Level Consultative Committee (SLCC)?
+890,Who has the authority to form the State Level Consultative Committee (SLCC)?
+892,Who is the chairperson of the State Level Consultative Committee (SLCC)?
+894,Who determines the Actuarial Premium Rate (APR) under PMFBY?
+895,What does the Premium payable by the farmer depend on in PMFBY?
+896,How is the Actuarial Premium Rate (APR) calculated in PMFBY?
+897,What is the purpose of the Actuarial Premium Rate (APR) in PMFBY?
+898,Are all farmers charged the same premium in PMFBY?
+899,Where can the premium rates for farmers be found in PMFBY?
+900,Who charges the Actuarial Premium Rate (APR) under PMFBY?
+901,What is the premium payable by the farmer under PMFBY?
+902,How is the premium rate determined under PMFBY?
+903,Where can the premium rates for PMFBY be found?
+904,Who is responsible for implementing PMFBY?
+905,What is the purpose of the application mentioned in the text?
+906,What are the details required for the application of Equity Grant?
+907,Where should the application for Equity Grant be submitted?
+908,What is the scheme under which the Equity Grant is being applied?
+909,"What is the purpose of the Formation and Promotion of 10,000 Farmer Producer Organizations (FPOs) scheme?"
+910,What is an FPO?
+911,What is the significance of the Equity Grant for an FPO?
+912,What does the term 'shareholder members' refer to?
+914,Who are the recipients of the application?
+915,What details need to be provided about the FPO in the application?
+916,What is the purpose of the Equity Grant mentioned in the application?
+917,What is the role of Nodal Institutions in the training program?
+918,What can Nodal Training Institutions develop to disseminate knowledge to new and existing FPOs?
+919,What is the objective of developing a distance learning Diploma Program in FPO management?
+920,What is the budgetary provision made by DAC&FW for training through specialized institutions?
+921,Which institution will contribute to capacity building in partnership with BIRD and other National and Regional level institutions?
+922,What is the role of Nodal Institutions in the agricultural training program?
+923,What is the purpose of video-based e-learning modules developed by Nodal Training Institutions?
+924,What is the budgetary provision for training through specialized institutions?
+925,What is the purpose of the distance learning Diploma Program in FPO management?
+926,Who is responsible for the capacity building in the agricultural training program?
+927,What is the duration of the budgetary provision for training through specialized institutions?
+928,What is the recommendation for the availability of land to FPOs for setting up CFCs and CHCs?
+929,What is the suggestion for FPOs regarding procurement operations?
+930,How can FPOs sell their produce through e-National Agriculture Market (e-NAM)?
+931,Who is authorized to finalize the Operational Guidelines of the scheme?
+932,What can states or union territories do to support FPOs in setting up CFCs and CHCs?
+933,How can the government prioritize FPOs?
+934,How can states encourage FPOs to sell their produce?
+935,Who is authorized to finalize the Operational Guidelines and issue them?
+936,What should states consider in relation to providing land to FPOs?
+937,What is NABARD?
+938,What is NAIS?
+939,What does NCIP stand for?
+940,What is NEFT?
+941,What is NFA?
+942,What is NRSC?
+943,What is NSSO?
+944,What are RRBs?
+945,What steps should insurance companies take to safeguard the insured's interest?
+946,When will the government provide protection to insurance companies?
+947,What happens if the losses in a crop season exceed the specified level?
+948,Who is responsible for settling the admissible claims if the losses are below the specified condition?
+949,What steps should the insurance company take to safeguard the insured's interest?
+950,Under what conditions will the government provide protection to insurance companies in a crop season?
+951,How will the losses exceeding the specified level in a crop season be met?
+952,What is the responsibility of insurers when losses are below the specified condition?
+953,What steps should an insurance company take to safeguard the insured's interest?
+954,What is the purpose of opening Kiosks under BC model through federations?
+955,How many kiosks were working through farmer club federations as of September 2014?
+956,What services do the kiosks provide?
+957,How are the kiosks attached to the nearest branch?
+958,What is the monthly income of the kiosks?
+959,What are the expenditures involved in operating the kiosks?
+960,What are the additional services provided by the kiosks?
+961,How many more kiosks was SBI planning to establish in the district?
+962,What is the purpose of opening Kiosks under the BC model through federations?
+963,How many Kiosks were working through farmer club federations as of September 2014?
+964,How many more Kiosks was SBI planning to establish in the next one year?
+965,What is the Pradhan Mantri Fasal Bima Yojana?
+966,Which department is responsible for the Pradhan Mantri Fasal Bima Yojana?
+967,What is the objective of the Pradhan Mantri Fasal Bima Yojana?
+968,Where is the Ministry of Agriculture & Farmers Welfare located?
+969,Who benefits from the Pradhan Mantri Fasal Bima Yojana?
+970,What kind of risks does the Pradhan Mantri Fasal Bima Yojana cover?
+971,What is the purpose of the revised Pradhan Mantri Fasal Bima Yojana?
+972,Why was the Pradhan Mantri Fasal Bima Yojana introduced?
+973,How does the Pradhan Mantri Fasal Bima Yojana support farmers?
+974,What is Pradhan Mantri Fasal Bima Yojana?
+975,Which government department is responsible for the implementation of Pradhan Mantri Fasal Bima Yojana?
+976,"Where is the headquarters of the Department of Agriculture, Cooperation and Farmers Welfare located?"
+977,What is the objective of Pradhan Mantri Fasal Bima Yojana?
+978,Who is eligible to participate in Pradhan Mantri Fasal Bima Yojana?
+979,What are the benefits of Pradhan Mantri Fasal Bima Yojana?
+980,When is the first installment due?
+981,When is the last installment due?
+982,What is Cash Credit?
+983,Are there any comments on irregularities?
+984,Is there any adverse comment on the unit by inspecting officials in the last inspection report?
+985,What is the cost of the project?
+986,What are the means of finance for the project?
+987,What are the forward linkages for the project?
+988,Are there any backward linkages with small/marginal farmers?
+989,What are the primary and collateral securities taken by the bank?
+990,Is there any consortium associated with the credit facility?
+991,What is the address associated with the credit facility?
+992,What is the purpose of submitting a detailed action plan to NABARD?
+993,What role does the Resource Support Agency (RSA) play in the scheme?
+994,What are the responsibilities of the RSAs in the implementation of the scheme?
+995,What is the supervision and guidance structure for the RSAs?
+996,Who is responsible for organizing various training programs under the scheme?
+998,What is the role of the Resource Support Agency (RSA) in promoting FPOs?

@@ -19,36 +19,43 @@ import torch.distributed as dist
 
 
 def prepare_data(
-    content,
-    train_qna,
+    chunks_df,
+    queries_df,
+    mapping_df,
     output_data_path="./data/",
     model_name="MyFineTunedColBERT",
     checkpoint="colbert-ir/colbertv2.0",
 ):
-    train_df = pd.merge(
-        train_qna,
-        content[["id", "content"]],
-        how="left",
-        left_on="content_row",
-        right_on="id",
-    )
+    id_to_chunk = {}
+    id_to_query = {}
 
-    # filter train data based on length
-    train_df["content_length"] = train_df["content"].str.split().apply(len)
-    train_df = train_df.loc[train_df["content_length"] > 100, :]
-    train_df = train_df[["question", "answer", "id"]]
-    train_pairs = [
-        (r["question"], r["answer"])
-        for _, r in train_df[["question", "answer"]].iterrows()
-    ]
+    for _, row in chunks_df.iterrows():
+        id_to_chunk[row['c_id']] = row['chunk']
+    
+    for _, row in queries_df.iterrows():
+        id_to_query[row['q_id']] = row['question']
+
+    pairs = []
+
+    # TODO: Sample Queries from the set of queries | queries = random.sample(candidates['hypothetical_questions'], num_questions)
+
+    for _, row in mapping_df.iterrows():
+        if row['c_id'] in id_to_chunk and row['q_id'] in id_to_query:
+            pairs.append([id_to_query[row['q_id']], id_to_chunk[row['c_id']]])
+        else:
+            print("Chunk not found.")
+
+    print("No of query-chunk: ", len(pairs))
 
     trainer = RAGTrainer(model_name=model_name, pretrained_model_name=checkpoint)
     trainer.prepare_training_data(
-        raw_data=train_pairs,
+        raw_data=pairs,
         data_out_path=output_data_path,
-        all_documents=data.content.to_list(),
+        all_documents=chunks_df['chunk'].to_list(),
         num_new_negatives=10,
         mine_hard_negatives=True,
+        positive_label="pos",
+        negative_label="neg",
     )
 
 
@@ -281,8 +288,9 @@ def train(
 
 if __name__ == "__main__":
     # importing data
-    data = pd.read_csv("./data/content.csv")
-    train_dataset = pd.read_csv("./data/q_n_a.csv")
+    chunks_df = pd.read_csv("./data/content.train.colbert.csv")[['c_id', 'chunk']]
+    queries_df = pd.read_csv("./data/queries.train.colbert.csv")[['q_id','question']]
+    mapping_df = pd.read_csv("./data/queries_row_mapping.train.colbert.csv")[['q_id','c_id']]
 
-    prepare_data(data, train_dataset)
+    prepare_data(chunks_df, queries_df, mapping_df)
     train()
